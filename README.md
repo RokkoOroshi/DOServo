@@ -21,5 +21,4 @@
 ## TODO
 
 - Atmel Studio Project/ Linux等用Makefile を作る
-- 回路図等を追加する
 - プログラムのリファクタリング（特にPWM生成をがんばっているところをなんとかする）
